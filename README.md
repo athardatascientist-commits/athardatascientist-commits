@@ -62,33 +62,44 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=99999&color=6D28D9&background=00000000&center=false&vCenter=true&width=380&height=26&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+%3E+whoami+%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97" />
-
 ```javascript
+// ╔══════════════════════════════════════════════════════════════╗
+// ║                      > whoami                               ║
+// ╚══════════════════════════════════════════════════════════════╝
+
 const athar = {
 
-  name       : "Muhammad Athar",
-  role       : "Deep Learning & AI Specialist",
-  location   : "Gujranwala, Pakistan",
-  education  : "BS Data Science — GIFT University (2022–2026)",
+  // ── Identity ───────────────────────────────────────────────────
+  name        :  "Muhammad Athar",
+  role        :  "Deep Learning & AI Specialist",
+  location    :  "Gujranwala, Pakistan  🇵🇰",
+  education   :  "BS Data Science  ·  GIFT University  ·  2022 – 2026",
 
-  expertise  : [
-    "Deep Learning & Computer Vision",
-    "Medical Imaging  (Brain Tumor, Cytology)",
-    "LLMs, Agentic AI & RAG Pipelines",
-    "Topological Data Analysis (TDA)",
-    "MLOps & Production AI Systems",
-  ],
+  // ── What I Do ──────────────────────────────────────────────────
+  expertise   : [
+                  "Deep Learning & Computer Vision",
+                  "Medical Imaging  (Brain Tumor · Cytology)",
+                  "LLMs  ·  Agentic AI  ·  RAG Pipelines",
+                  "Topological Data Analysis  (TDA)",
+                  "MLOps & Production AI Systems",
+                ],
 
-  currently  : [
-    "[+] Research @ GIFT University",
-    "[+] AI / ML Consulting — Self-Employed",
-    "[+] TopoCytoNet & LLM Agent projects",
-  ],
+  // ── Right Now ──────────────────────────────────────────────────
+  currently   : [
+                  "[+]  Research          →  GIFT University",
+                  "[+]  Consulting        →  AI / ML  (Self-Employed)",
+                  "[+]  Active Projects   →  TopoCytoNet  &  LLM Agents",
+                ],
 
-  mission    : `Build AI that clinicians trust,
-               researchers cite, and patients
-               benefit from.`,
+  // ── Why I Build ────────────────────────────────────────────────
+  mission     :  "Build AI that clinicians trust,",
+  //              researchers cite, and patients
+  //              benefit from — every single day.
+
+  // ── Always On ──────────────────────────────────────────────────
+  status      :  "open_to_collaborate",
+  contact     :  "atharrizwan22@gmail.com",
+
 };
 ```
 
