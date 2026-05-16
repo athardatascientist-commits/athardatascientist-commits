@@ -1,341 +1,241 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       ANIMATED HEADER                        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                       HERO SECTION                         -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1e1b4b,60:4c1d95,100:6d28d9&height=260&section=header&text=Muhammad%20Athar&fontSize=72&fontColor=ede9fe&fontAlignY=45&desc=Deep%20Learning%20%26%20AI%20Specialist&descSize=22&descAlignY=68&descColor=a78bfa&animation=twinkling&stroke=6d28d9&strokeWidth=2" />
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      TYPING ANIMATION                        -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,20:14002b,45:3b0764,70:6d28d9,100:a855f7&height=320&section=header&text=Muhammad%20Athar&fontSize=78&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20•%20Deep%20Learning%20Engineer%20•%20Medical%20AI&descSize=24&descAlignY=60&descColor=e9d5ff&animation=fadeIn" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&background=00000000&center=true&vCenter=true&width=680&height=45&lines=Deep+Learning+%26+Computer+Vision+Engineer;LLM+%26+Agentic+AI+Architect;Medical+Imaging+%26+TDA+Researcher;Building+Interpretable+AI+for+the+Real+World;Gujranwala%2C+Pakistan+→+Global+Impact" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+Trustworthy+AI+for+Healthcare;Computer+Vision+%7C+LLMs+%7C+Agentic+AI;TopoCytoNet+Researcher+%F0%9F%A7%A0;From+Gujranwala+to+Global+Innovation+%F0%9F%9A%80" />
 
 <br/><br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       CONTACT BADGES                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- GLASS BADGES -->
 
 <a href="https://athardatascientist.site">
-  <img src="https://img.shields.io/badge/Portfolio-athardatascientist.site-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=ede9fe&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-7c3aed?style=for-the-badge&logoColor=white&labelColor=14002b" />
 </a>
 &nbsp;
 <a href="mailto:atharrizwan22@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-atharrizwan22-5b21b6?style=for-the-badge&logo=gmail&logoColor=ede9fe&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/📧_Email-Contact_Me-a855f7?style=for-the-badge&logoColor=white&labelColor=14002b" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/muhammad-athar-data-sci-and-a-i-eng">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4c1d95?style=for-the-badge&logo=linkedin&logoColor=ede9fe&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-9333ea?style=for-the-badge&logoColor=white&labelColor=14002b" />
 </a>
 &nbsp;
-<a href="tel:+923157717244">
-  <img src="https://img.shields.io/badge/Phone-+92%20315%207717244-3b0764?style=for-the-badge&logo=phone&logoColor=ede9fe&labelColor=1e1b4b" />
+<a href="https://github.com/athardatascientist-commits">
+  <img src="https://img.shields.io/badge/⚡_GitHub-Open_Source-6d28d9?style=for-the-badge&logoColor=white&labelColor=14002b" />
 </a>
 
 <br/><br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athardatascientist-commits&theme=tokyonight" width="100%" />
+
+</div>
+
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y5a2R3bTg2Y2I1dTZvM3RkbDBrbTB4Zm5wd3ZxZXA3eTQzZ3Q0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+```yaml
+name: Muhammad Athar
+located_in: Gujranwala, Pakistan 🇵🇰
+
+education:
+  degree: BS Data Science
+  university: GIFT University
+  timeline: 2022 - 2026
+
+focus_areas:
+  - Deep Learning
+  - Medical Imaging AI
+  - Computer Vision
+  - Large Language Models
+  - Agentic AI Systems
+  - Topological Data Analysis
+
+currently_building:
+  - TopoCytoNet
+  - Clinical AI Agents
+  - Explainable Medical AI
+  - Multi-modal AI Systems
+
+research_interests:
+  - Trustworthy AI
+  - Medical Image Segmentation
+  - Vision-Language Models
+  - Temporal AI Systems
+  - TDA + Deep Learning
+
+life_philosophy:
+  "Build AI that researchers respect,
+   clinicians trust,
+   and patients benefit from."
+````
+
+<br clear="right"/>
+
+---
+
+# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32"> Interactive Dashboard
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=athardatascientist-commits&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF&ring_color=8B5CF6" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athardatascientist-commits&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF" />
+
+<br/><br/>
+
+<img width="96%" src="https://streak-stats.demolab.com?user=athardatascientist-commits&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&stroke=A855F7&ring=C084FC&fire=A855F7&currStreakLabel=E9D5FF" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=athardatascientist-commits&custom_title=Athar's%20Contribution%20Graph&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30"> Tech Universe
+
+<div align="center">
+
+## ⚡ AI & Deep Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+
+<br/><br/>
+
+## 🧠 LLMs • NLP • Agents
+
+<img src="https://skillicons.dev/icons?i=github,docker,linux,vscode" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LangChain-7c3aed?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-9333ea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-c084fc?style=for-the-badge"/>
+
+<br/><br/>
+
+## 📊 Data Science & Visualization
+
+<img src="https://skillicons.dev/icons?i=r,mysql,postgres" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pandas-14002b?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-3b0764?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-6d28d9?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-a855f7?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> Research & Innovation
+
+<div align="center">
+
+| 🧪 Researching                 | 🚀 Building            | 📚 Learning           |
+| ------------------------------ | ---------------------- | --------------------- |
+| Medical Vision-Language Models | Clinical AI Agents     | Diffusion Models      |
+| Explainable AI Systems         | Real-time AI Pipelines | Graph Neural Networks |
+| Temporal Action Localization   | Multi-Agent Workflows  | Quantum ML            |
+| Topological Deep Learning      | Open-source AI Tools   | Advanced MLOps        |
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="28"> Achievement Zone
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=athardatascientist-commits&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=4" />
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IBM_GenAI-5_Certifications-7c3aed?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-3_Certifications-9333ea?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Science-4_Certifications-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP_&_CV-Specialized_Training-c084fc?style=for-the-badge"/>
+
+</div>
+
+<details>
+<summary><b>📜 View Complete Certification Journey</b></summary>
+
+<br/>
+
+| Certification                                        | Provider        |
+| ---------------------------------------------------- | --------------- |
+| Generative AI Engineering & Fine-Tuning Transformers | IBM             |
+| Generative AI Language Modeling with Transformers    | IBM             |
+| GenAI Foundational Models for NLP                    | IBM             |
+| Deep Learning with TensorFlow & Keras                | Coursera        |
+| NLP in TensorFlow                                    | DeepLearning.AI |
+| Object Localization with TensorFlow                  | Coursera        |
+| Linear Algebra for ML & Data Science                 | DeepLearning.AI |
+| AI For Everyone                                      | DeepLearning.AI |
+
+</details>
+
+---
+
+# <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> Contribution Snake
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athardatascientist-commits/athardatascientist-commits/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athardatascientist-commits/athardatascientist-commits/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/athardatascientist-commits/athardatascientist-commits/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athardatascientist-commits/athardatascientist-commits/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/athardatascientist-commits/athardatascientist-commits/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT SECTION                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28"> Let's Connect
 
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ6NzlrcGlxaGhkbXc2ZXFvNmRyZGlhaTR1YjhvNm81dWVxeHBrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+
+### *"AI should not only be intelligent — it should be understandable, trustworthy, and impactful."*
 
 <br/>
 
-```javascript
-// ╔══════════════════════════════════════════════════════════════╗
-// ║                      > whoami                               ║
-// ╚══════════════════════════════════════════════════════════════╝
+<a href="https://athardatascientist.site">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge&labelColor=14002b"/>
+</a>
 
-const athar = {
+<a href="mailto:atharrizwan22@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-Say_Hello-a855f7?style=for-the-badge&labelColor=14002b"/>
+</a>
 
-  // ── Identity ───────────────────────────────────────────────────
-  name        :  "Muhammad Athar",
-  role        :  "Deep Learning & AI Specialist",
-  location    :  "Gujranwala, Pakistan  🇵🇰",
-  education   :  "BS Data Science  ·  GIFT University  ·  2022 – 2026",
+<a href="https://linkedin.com/in/muhammad-athar-data-sci-and-a-i-eng">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Network-9333ea?style=for-the-badge&labelColor=14002b"/>
+</a>
 
-  // ── What I Do ──────────────────────────────────────────────────
-  expertise   : [
-                  "Deep Learning & Computer Vision",
-                  "Medical Imaging  (Brain Tumor · Cytology)",
-                  "LLMs  ·  Agentic AI  ·  RAG Pipelines",
-                  "Topological Data Analysis  (TDA)",
-                  "MLOps & Production AI Systems",
-                ],
+<br/><br/>
 
-  // ── Right Now ──────────────────────────────────────────────────
-  currently   : [
-                  "[+]  Research          →  GIFT University",
-                  "[+]  Consulting        →  AI / ML  (Self-Employed)",
-                  "[+]  Active Projects   →  TopoCytoNet  &  LLM Agents",
-                ],
+<img src="https://komarev.com/ghpvc/?username=athardatascientist-commits&style=for-the-badge&color=a855f7" />
+<img src="https://img.shields.io/github/followers/athardatascientist-commits?style=for-the-badge&color=7c3aed&labelColor=14002b" />
 
-  // ── Why I Build ────────────────────────────────────────────────
-  mission     :  "Build AI that clinicians trust,",
-  //              researchers cite, and patients
-  //              benefit from — every single day.
+<br/><br/>
 
-  // ── Always On ──────────────────────────────────────────────────
-  status      :  "open_to_collaborate",
-  contact     :  "atharrizwan22@gmail.com",
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,25:7c3aed,50:6d28d9,75:3b0764,100:14002b&height=140&section=footer&text=Thanks%20For%20Visiting%20🚀&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 
-};
+</div>
 ```
-
-<br clear="right"/>
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## GitHub Stats
-
-<br/>
-
-<img height="190px" src="https://github-readme-stats.vercel.app/api?username=athardatascientist-commits&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&border_color=6d28d9&title_color=a78bfa&icon_color=8b5cf6&text_color=ddd6fe&bg_color=0d0221&ring_color=6d28d9" />
-&nbsp;&nbsp;
-<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athardatascientist-commits&layout=compact&langs_count=8&theme=tokyonight&border_radius=14&border_color=6d28d9&title_color=a78bfa&text_color=ddd6fe&bg_color=0d0221" />
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=athardatascientist-commits&theme=tokyonight-duo&border_radius=14&border=6d28d9&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=7c3aed&background=0d0221)](https://git.io/streak-stats)
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=athardatascientist-commits&bg_color=0d0221&color=a78bfa&line=6d28d9&point=8b5cf6&area=true&area_color=1e1b4b&hide_border=false&border_color=6d28d9&radius=14&custom_title=Contribution+Activity+—+Muhammad+Athar)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      TECH ARSENAL                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## Tech Arsenal
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=a78bfa&color=1e1b4b)
-![SQL](https://img.shields.io/badge/SQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=a78bfa&color=1e1b4b)
-![R](https://img.shields.io/badge/R-0d0221?style=for-the-badge&logo=r&logoColor=a78bfa&color=1e1b4b)
-![Java](https://img.shields.io/badge/Java-0d0221?style=for-the-badge&logo=openjdk&logoColor=a78bfa&color=1e1b4b)
-
-**Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0221?style=for-the-badge&logo=tensorflow&logoColor=a78bfa&color=1e1b4b)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0221?style=for-the-badge&logo=pytorch&logoColor=a78bfa&color=1e1b4b)
-![Keras](https://img.shields.io/badge/Keras-0d0221?style=for-the-badge&logo=keras&logoColor=a78bfa&color=1e1b4b)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d0221?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa&color=1e1b4b)
-
-**LLMs, NLP & Agents**
-
-![LangChain](https://img.shields.io/badge/LangChain-0d0221?style=for-the-badge&logo=chainlink&logoColor=a78bfa&color=1e1b4b)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d0221?style=for-the-badge&logoColor=a78bfa&color=1e1b4b)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0221?style=for-the-badge&logo=huggingface&logoColor=a78bfa&color=1e1b4b)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d0221?style=for-the-badge&logo=openai&logoColor=a78bfa&color=1e1b4b)
-![BERT](https://img.shields.io/badge/BERT-0d0221?style=for-the-badge&logoColor=a78bfa&color=1e1b4b)
-![GPT-4](https://img.shields.io/badge/GPT--4-0d0221?style=for-the-badge&logo=openai&logoColor=a78bfa&color=1e1b4b)
-
-**Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-0d0221?style=for-the-badge&logo=opencv&logoColor=a78bfa&color=1e1b4b)
-![U-Net](https://img.shields.io/badge/U--Net-0d0221?style=for-the-badge&logoColor=a78bfa&color=1e1b4b)
-![YOLO](https://img.shields.io/badge/YOLO-0d0221?style=for-the-badge&logoColor=a78bfa&color=1e1b4b)
-![Pillow](https://img.shields.io/badge/Pillow-0d0221?style=for-the-badge&logo=python&logoColor=a78bfa&color=1e1b4b)
-
-**Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-0d0221?style=for-the-badge&logo=pandas&logoColor=a78bfa&color=1e1b4b)
-![NumPy](https://img.shields.io/badge/NumPy-0d0221?style=for-the-badge&logo=numpy&logoColor=a78bfa&color=1e1b4b)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0221?style=for-the-badge&logoColor=a78bfa&color=1e1b4b)
-![Plotly](https://img.shields.io/badge/Plotly-0d0221?style=for-the-badge&logo=plotly&logoColor=a78bfa&color=1e1b4b)
-![Selenium](https://img.shields.io/badge/Selenium-0d0221?style=for-the-badge&logo=selenium&logoColor=a78bfa&color=1e1b4b)
-
-**MLOps & Infrastructure**
-
-![Hadoop](https://img.shields.io/badge/Hadoop-0d0221?style=for-the-badge&logo=apachehadoop&logoColor=a78bfa&color=1e1b4b)
-![Docker](https://img.shields.io/badge/Docker-0d0221?style=for-the-badge&logo=docker&logoColor=a78bfa&color=1e1b4b)
-![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=a78bfa&color=1e1b4b)
-![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=a78bfa&color=1e1b4b)
-![Linux](https://img.shields.io/badge/Linux-0d0221?style=for-the-badge&logo=linux&logoColor=a78bfa&color=1e1b4b)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d0221?style=for-the-badge&logo=visualstudiocode&logoColor=a78bfa&color=1e1b4b)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    CERTIFICATIONS                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="220">
-  <img src="https://img.shields.io/badge/IBM-LLM%20%26%20GenAI-6d28d9?style=for-the-badge&logo=ibm&logoColor=ede9fe&labelColor=1e1b4b" /><br/>
-  <sub>5 GenAI Certifications</sub>
-</td>
-<td align="center" width="220">
-  <img src="https://img.shields.io/badge/Deep%20Learning-TF%20%26%20Keras-5b21b6?style=for-the-badge&logo=tensorflow&logoColor=ede9fe&labelColor=1e1b4b" /><br/>
-  <sub>3 Deep Learning Certs</sub>
-</td>
-<td align="center" width="220">
-  <img src="https://img.shields.io/badge/Data%20Science-Full%20Path-4c1d95?style=for-the-badge&logo=databricks&logoColor=ede9fe&labelColor=1e1b4b" /><br/>
-  <sub>4 Data Science Certs</sub>
-</td>
-<td align="center" width="220">
-  <img src="https://img.shields.io/badge/AI-Mathematics-3b0764?style=for-the-badge&logoColor=ede9fe&labelColor=1e1b4b" /><br/>
-  <sub>Linear Algebra for ML</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<details>
-<summary align="center"><b>View All 16 Certifications</b></summary>
-
-<br/>
-
-| # | Certification | Issuer | Domain |
-|---|---------------|--------|--------|
-| 01 | Generative AI and LLMs: Architecture and Data Preparation | IBM / Coursera | GenAI |
-| 02 | Generative AI Language Modeling with Transformers | IBM / Coursera | GenAI |
-| 03 | Generative AI Engineering and Fine-Tuning Transformers | IBM / Coursera | GenAI |
-| 04 | Gen AI Foundational Models for NLP & Language Understanding | IBM / Coursera | GenAI |
-| 05 | Programming with Generative AI | Coursera | GenAI |
-| 06 | Introduction to Neural Networks and PyTorch | Coursera | Deep Learning |
-| 07 | Introduction to Deep Learning & Neural Networks with Keras | Coursera | Deep Learning |
-| 08 | Deep Learning with Keras and TensorFlow | Coursera | Deep Learning |
-| 09 | Natural Language Processing in TensorFlow | DeepLearning.AI | NLP |
-| 10 | Object Localization with TensorFlow | Coursera | Computer Vision |
-| 11 | Python for Data Science, AI & Development | IBM | Python |
-| 12 | Python Project for Data Science | IBM | Python |
-| 13 | Linear Algebra for Machine Learning and Data Science | DeepLearning.AI | Mathematics |
-| 14 | Tools for Data Science | IBM | Data Science |
-| 15 | Data Science Methodology | IBM | Data Science |
-| 16 | AI For Everyone | DeepLearning.AI | AI Literacy |
-
-</details>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    EXPERTISE TABLE                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## Areas of Expertise
-
-<div align="center">
-
-| Domain | Specialty | Level |
-|--------|-----------|-------|
-| Deep Learning | CNN, RNN, Transformers, U-Net | `████████████` Expert |
-| Computer Vision | Segmentation, Detection, Medical Imaging | `████████████` Expert |
-| LLM & Agents | LangChain, LangGraph, RAG, Agentic AI | `███████████░` Advanced |
-| NLP | BERT, GPT, Fine-tuning, Embeddings | `███████████░` Advanced |
-| TDA | Persistent Homology, Topological Features | `██████████░░` Advanced |
-| Data Engineering | Pipelines, Hadoop, ETL, Scraping | `█████████░░░` Proficient |
-| MLOps | Deployment, Monitoring, Docker | `████████░░░░` Proficient |
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    TROPHY CABINET                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## GitHub Trophy Cabinet
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=athardatascientist-commits&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=6&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    CURRENTLY EXPLORING                       -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## Currently Exploring
-
-<div align="center">
-
-| Research | Building | Learning |
-|:--------:|:--------:|:--------:|
-| Multimodal LLMs for Medical Imaging | Agentic RAG for Clinical AI | Graph Neural Networks |
-| Vision Transformers (ViT) | Real-time Edge AI Deployment | Diffusion Models |
-| Zero-shot Detection | Open-source AI tools for Pakistan | Quantum ML Basics |
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT SECTION                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## Let's Build Something Remarkable
-
-<br/>
-
-> *"I don't just write models — I write models that doctors trust, researchers cite, and patients benefit from."*
->
-> — **Muhammad Athar**
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-athardatascientist.site-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=ede9fe&labelColor=1e1b4b)](https://athardatascientist.site)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-atharrizwan22@gmail.com-5b21b6?style=for-the-badge&logo=gmail&logoColor=ede9fe&labelColor=1e1b4b)](mailto:atharrizwan22@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4c1d95?style=for-the-badge&logo=linkedin&logoColor=ede9fe&labelColor=1e1b4b)](https://linkedin.com/in/muhammad-athar-data-sci-and-a-i-eng)
-
-<br/><br/>
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=athardatascientist-commits&color=6d28d9&style=for-the-badge&label=Profile+Views)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/athardatascientist-commits?label=Followers&style=for-the-badge&color=6d28d9&labelColor=1e1b4b)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1e1b4b,60:4c1d95,100:6d28d9&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=a78bfa&fontAlignY=65&animation=twinkling" />
-
-</div>
