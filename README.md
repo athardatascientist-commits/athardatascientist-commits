@@ -40,8 +40,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y5a2R3bTg2Y2I1dTZvM3RkbDBrbTB4Zm5wd3ZxZXA3eTQzZ3Q0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
-
 # About Me
 
 <div align="center">
@@ -87,6 +85,19 @@ mission:
   "Build AI systems that researchers respect,
    clinicians trust,
    and people genuinely benefit from."
+```
+
+</td>
+
+<td align="center" width="40%">
+
+<img width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y5a2R3bTg2Y2I1dTZvM3RkbDBrbTB4Zm5wd3ZxZXA3eTQzZ3Q0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 # <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32"> Interactive Dashboard
 
