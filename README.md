@@ -87,7 +87,6 @@ mission:
   "Build AI systems that researchers respect,
    clinicians trust,
    and people genuinely benefit from."
----
 
 # <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32"> Interactive Dashboard
 
