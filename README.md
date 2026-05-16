@@ -38,7 +38,7 @@
 
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-````markdown id="9jv3ws"
+
 <div align="center">
 
 <table>
@@ -82,7 +82,7 @@ mission:
   "Build AI systems that researchers respect,
    clinicians trust,
    and people genuinely benefit from."
-````
+
 
 </td>
 
@@ -100,8 +100,7 @@ mission:
 </table>
 
 </div>
-```
-
+````
 
 # <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32"> Interactive Dashboard
 
