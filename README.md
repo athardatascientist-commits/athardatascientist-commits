@@ -105,39 +105,62 @@ life_philosophy:
 
 <div align="center">
 
-## ⚡ AI & Deep Learning
+<table>
+<tr>
+<td align="center" width="33%">
+
+## AI & Deep Learning
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
 
 <br/><br/>
 
-## 🧠 LLMs • NLP • Agents
+<img src="https://img.shields.io/badge/PyTorch-14002b?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-2a0052?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-4c1d95?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-6d28d9?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+## LLMs • NLP • Agents
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=github,docker,linux,vscode" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LangChain-7c3aed?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-9333ea?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-c084fc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-14002b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-2a0052?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Systems-4c1d95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6d28d9?style=for-the-badge"/>
 
-<br/><br/>
+</td>
 
-## 📊 Data Science & Visualization
+<td align="center" width="33%">
+
+## Data Science & Visualization
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=r,mysql,postgres" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Pandas-14002b?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-3b0764?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-6d28d9?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-a855f7?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-2a0052?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-4c1d95?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-6d28d9?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
 
 # <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> Research & Innovation
 
