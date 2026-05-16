@@ -92,6 +92,10 @@ mission:
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athardatascientist-commits&theme=tokyonight" />
 
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athardatascientist-commits&theme=tokyonight" />
+
 </td>
 
 </tr>
