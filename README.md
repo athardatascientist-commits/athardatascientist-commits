@@ -38,29 +38,26 @@
 
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y5a2R3bTg2Y2I1dTZvM3RkbDBrbTB4Zm5wd3ZxZXA3eTQzZ3Q0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-# About Me
-
+````markdown id="9jv3ws"
 <div align="center">
 
 <table>
 <tr>
-<td width="60%">
+<td width="58%">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=A855F7&width=520&lines=AI+Researcher+%26+Deep+Learning+Engineer;Medical+Imaging+%26+Computer+Vision;LLMs+%26+Agentic+AI+Systems;Building+Trustworthy+Artificial+Intelligence" />
+
+<br/>
 
 ```yaml
-name: Muhammad Athar
+profile:
+  name        : Muhammad Athar
+  location    : Gujranwala, Pakistan
+  education   : BS Data Science
+  university  : GIFT University
+  timeline    : 2022 - 2026
 
-location:
-  city: Gujranwala
-  country: Pakistan
-
-education:
-  degree: BS Data Science
-  university: GIFT University
-  duration: 2022 - 2026
-
-specialization:
+expertise:
   - Deep Learning
   - Computer Vision
   - Medical Imaging AI
@@ -68,13 +65,13 @@ specialization:
   - Agentic AI Systems
   - Topological Data Analysis
 
-current_work:
+currently_building:
   - TopoCytoNet Research
   - Clinical AI Agents
   - Explainable Medical AI
   - Multi-modal AI Systems
 
-research_domains:
+research_focus:
   - Trustworthy AI
   - Medical Image Segmentation
   - Vision-Language Models
@@ -85,19 +82,26 @@ mission:
   "Build AI systems that researchers respect,
    clinicians trust,
    and people genuinely benefit from."
-```
+````
 
 </td>
 
-<td align="center" width="40%">
+<td width="42%" align="center">
 
-<img width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y5a2R3bTg2Y2I1dTZvM3RkbDBrbTB4Zm5wd3ZxZXA3eTQzZ3Q0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=athardatascientist-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF&border_radius=18" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=athardatascientist-commits&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF&border_radius=18" />
 
 </td>
+
 </tr>
 </table>
 
 </div>
+```
+
 
 # <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32"> Interactive Dashboard
 
