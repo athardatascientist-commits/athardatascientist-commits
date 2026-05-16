@@ -41,44 +41,52 @@
 
 <img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y5a2R3bTg2Y2I1dTZvM3RkbDBrbTB4Zm5wd3ZxZXA3eTQzZ3Q0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
+
+# About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
+
 ```yaml
 name: Muhammad Athar
-located_in: Gujranwala, Pakistan 🇵🇰
+
+location:
+  city: Gujranwala
+  country: Pakistan
 
 education:
   degree: BS Data Science
   university: GIFT University
-  timeline: 2022 - 2026
+  duration: 2022 - 2026
 
-focus_areas:
+specialization:
   - Deep Learning
-  - Medical Imaging AI
   - Computer Vision
+  - Medical Imaging AI
   - Large Language Models
   - Agentic AI Systems
   - Topological Data Analysis
 
-currently_building:
-  - TopoCytoNet
+current_work:
+  - TopoCytoNet Research
   - Clinical AI Agents
   - Explainable Medical AI
   - Multi-modal AI Systems
 
-research_interests:
+research_domains:
   - Trustworthy AI
   - Medical Image Segmentation
   - Vision-Language Models
   - Temporal AI Systems
-  - TDA + Deep Learning
+  - TDA Enhanced Deep Learning
 
-life_philosophy:
-  "Build AI that researchers respect,
+mission:
+  "Build AI systems that researchers respect,
    clinicians trust,
-   and patients benefit from."
-````
-
-<br clear="right"/>
-
+   and people genuinely benefit from."
 ---
 
 # <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32"> Interactive Dashboard
