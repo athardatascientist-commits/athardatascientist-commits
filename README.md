@@ -86,11 +86,11 @@ mission:
 
 <td width="42%" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=athardatascientist-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF&border_radius=18](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athardatascientist-commits&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=athardatascientist-commits&theme=tokyonight" />
 
 <br/><br/>
 
-<img width="100%" src="[[https://streak-stats.demolab.com?user=athardatascientist-commits&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF&border_radius=18](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=athardatascientist-commits&theme=tokyonight)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=athardatascientist-commits&theme=tokyonight)" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athardatascientist-commits&theme=tokyonight" />
 
 </td>
 
