@@ -58,34 +58,42 @@
 <!--                       ABOUT SECTION                          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ6NzlrcGlxaGhkbXc2ZXFvNmRyZGlhaTR1YjhvNm81dWVxeHBrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ6NzlrcGlxaGhkbXc2ZXFvNmRyZGlhaTR1YjhvNm81dWVxeHBrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### `> whoami`
+<br/>
 
-```yaml
-Name      : Muhammad Athar
-Role      : Deep Learning & AI Specialist
-Location  : Gujranwala, Pakistan
-Education : BS Data Science — GIFT University
-            2022 – 2026
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=99999&color=6D28D9&background=00000000&center=false&vCenter=true&width=380&height=26&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90+%3E+whoami+%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97" />
 
-Expertise :
-  - Deep Learning & Computer Vision
-  - Medical Imaging  (Brain Tumor, Cytology)
-  - LLMs, Agentic AI & RAG Pipelines
-  - Topological Data Analysis (TDA)
-  - MLOps & Production AI Systems
+```javascript
+const athar = {
 
-Currently :
-  [+] Research @ GIFT University
-  [+] AI / ML Consulting — Self-Employed
-  [+] TopoCytoNet & LLM Agent projects
+  name       : "Muhammad Athar",
+  role       : "Deep Learning & AI Specialist",
+  location   : "Gujranwala, Pakistan",
+  education  : "BS Data Science — GIFT University (2022–2026)",
 
-Mission   : Build AI that clinicians trust,
-            researchers cite, patients benefit from.
+  expertise  : [
+    "Deep Learning & Computer Vision",
+    "Medical Imaging  (Brain Tumor, Cytology)",
+    "LLMs, Agentic AI & RAG Pipelines",
+    "Topological Data Analysis (TDA)",
+    "MLOps & Production AI Systems",
+  ],
+
+  currently  : [
+    "[+] Research @ GIFT University",
+    "[+] AI / ML Consulting — Self-Employed",
+    "[+] TopoCytoNet & LLM Agent projects",
+  ],
+
+  mission    : `Build AI that clinicians trust,
+               researchers cite, and patients
+               benefit from.`,
+};
 ```
 
 <br clear="right"/>
+<br/>
 
 ---
 
